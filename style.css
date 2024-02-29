@@ -1,0 +1,35 @@
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+
+.container {
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+h1 {
+    color: #007bff;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+
+footer {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 10px 0;
+}
